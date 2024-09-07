@@ -1,0 +1,145 @@
+    1  /Users/leronlimon/Downloads/The.Sims.4.v1.90.358.1030/check_sum.command 
+    2  /Applications/The\ Sims\ 4\ Game/Install\ DLCs\ \&\ Updates ; exit;
+    3  /Applications/The\ Sims\ 4\ Game/The\ Sims\ 4.app/Contents/SharedSupport/prefix/drive_c/Program\ Files/Add_DLCs ; exit;
+    4  /Applications/The\ Sims\ 4\ Game/CHANGE\ LANGUAGE\ FROM\ HERE ; exit;
+    5  /Applications/The\ Sims\ 4\ Game/CHANGE\ LANGUAGE\ FROM\ HERE ; exit;
+    6  /Applications/The\ Sims\ 4\ Game/Install\ DLCs\ \&\ Updates ; exit;
+    7  /Applications/The\ Sims\ 4\ Game/The\ Sims\ 4.app/Contents/SharedSupport/prefix/drive_c/Program\ Files/Add_DLCs ; exit;
+    8  /Applications/The\ Sims\ 4\ Game/The\ Sims\ 4.app/Contents/SharedSupport/prefix/drive_c/Program\ Files/Add_DLCs ; exit;
+    9  /Applications/The\ Sims\ 4\ Game/The\ Sims\ 4.app/Contents/SharedSupport/prefix/drive_c/Program\ Files/Add_DLCs ; exit;
+   10  /Applications/The\ Sims\ 4\ Game/The\ Sims\ 4.app/Contents/SharedSupport/prefix/drive_c/Program\ Files/Add_DLCs ; exit;
+   11  /Applications/The\ Sims\ 4\ Game/The\ Sims\ 4.app/Contents/SharedSupport/prefix/drive_c/Program\ Files/Add_DLCs ; exit;
+   12  /Applications/The\ Sims\ 4\ Game/The\ Sims\ 4.app/Contents/SharedSupport/prefix/drive_c/Program\ Files/Add_DLCs ; exit;
+   13  /Users/leronlimon/Downloads/Origin\ DLC\ Unlocker/fix\ OriginClient.command ; exit;
+   14  /Users/leronlimon/Downloads/Origin\ DLC\ Unlocker/add\ fake\ entitlements.command ; exit;
+   15  /Users/leronlimon/Downloads/Origin\ DLC\ Unlocker/fix\ OriginClient.command ; exit;
+   16  /Users/leronlimon/Downloads/Origin\ DLC\ Unlocker/fix\ OriginClient.command ; exit;
+   17  /Users/leronlimon/Desktop/Origin\ DLC\ Unlocker/fix\ OriginClient.command ; exit;
+   18  /Users/leronlimon/Desktop/Origin\ DLC\ Unlocker/fix\ OriginClient.command ; exit;
+   19  /Users/leronlimon/Desktop/Origin\ DLC\ Unlocker/fix\ OriginClient.command ; exit;
+   20  /Users/leronlimon/Desktop/Origin\ DLC\ Unlocker/fix\ OriginClient.command ; exit;
+   21  /Users/leronlimon/Desktop/Origin\ DLC\ Unlocker/fix\ OriginClient.command ; exit;
+   22  defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool FALSE
+   23  git -version
+   24  git --version
+   25  man ls
+   26  ls
+   27  cd
+   28  cd Desktop
+   29  ls
+   30  ls
+   31  cd ~
+   32  cd /
+   33  ls
+   34  cd ~
+   35  ls
+   36  cd Desktop
+   37  cd ..
+   38  pwd
+   39  mkdir Test1
+   40  ls
+   41   cd ~
+   42  cd Desktop/
+   43  ls
+   44  cd Lesson32/
+   45  mkdir TestF1
+   46  ls
+   47  mkdir TestF2
+   48  mkdir TestF3
+   49  touch file1.txt
+   50  touch file2.txt
+   51  vim file1.txt
+   52  nano file2.txt
+   53  cat file1.txt
+   54  clear
+   55  clear
+   56  clear
+   57  clear
+   58  clear
+   59  clear
+   60  cp file1.txt TestF1
+   61  cd TestF1
+   62  pwd
+   63  mv file1.txt /Users/leronlimon/Desktop/Lesson32/TestF2
+   64  cd ..
+   65  rm file1.txt
+   66  rmdir TestF3
+   67  cd ~
+   68  ping google.com
+   69  date
+   70  system_profiler
+   71  whoami
+   72   cd Desktop/Lesson32
+   73  chmod 777 file2.txt
+   74  clear
+   75  git config --global user.name "Valeriia Paslova"
+   76  git config --global user.email leraand01@gmail.com
+   77  git config --global user.name "Valeriia Paslova"
+   78  git config --global user.email leraand01@gmail.com
+   79  cd Lesson32
+   80  ll
+   81  ls
+   82  cd Desktop
+   83  ls
+   84  cd Lesson32
+   85  cd
+   86  cd Desktop/Lesson32
+   87  git clone https://github.com/valeria-paslova/Lesson32.git
+   88  git status
+   89  cd Lesson32
+   90  ls
+   91  git status
+   92  touch new.txt
+   93  git status
+   94  git add new.txt
+   95  git status
+   96  git commit -m "New.txt file added"
+   97  git status
+   98   git checkout -b new_branch
+   99  git branch
+  100   nano new.txt
+  101  git status
+  102  git add new.txt
+  103  git status
+  104  git commit -m "New.txt file updated"
+  105  git checkout main
+  106  git branch
+  107  git merge new_branch
+  108  git status
+  109  git branch
+  110  git push
+  111  git status
+  112  git push
+  113  git push
+  114  history -c && rm ~/.bash_history
+  115  git config user.name
+  116  git config user.email
+  117  git clone https://github.com/valeria-paslova/HW_10.git
+  118  cd HW_10
+  119  touch text_ignore.txt
+  120  nano .gitignore
+  121  nano .gitignore
+  122  git status
+  123  rm .gitignore.save
+  124  git status
+  125  git add .
+  126  git status
+  127  git commit -m "modified gitignore file"
+  128  touch main_test.txt
+  129  git add .
+  130  git commit -m "added main_test file"
+  131  git checkout -b develop
+  132  git branch
+  133  touch develop_test.txt
+  134  git add .
+  135  git commit -m "added develop_test file"
+  136  nano develop_test.txt
+  137  git status
+  138  git add .
+  139  git commit -m "modified develop_test file"
+  140  git status
+  141  git branch
+  142  git checkout main
+  143  git branch
+  144  git merge develop
+  145  git log
